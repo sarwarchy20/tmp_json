@@ -1,5 +1,4 @@
-{
-  "h2:caption":"O60091 and P36525 Alignment",
+{ "h2:caption":"O60091 and P36525 Alignment",
   "alnpdb:test":{
     "pdb1":"https://alphafold.ebi.ac.uk/files/AF-O60091-F1-model_v4.pdb",
     "name1":"O60091",
