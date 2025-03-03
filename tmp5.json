@@ -1,10 +1,10 @@
-{
-    "pdb:test":{
+{  "h2:caption":"8217_scaled_20_pos and 8217_scaled_20_neg Alignment",
+    "alnpdb:alignment":{
         "pdb1":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20_neg.pdb",
         "name1":"8217_scaled_20_neg",
         "pdb2":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20.pdb",
         "name2":"8217_scaled_20",
-        "pdb":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217.pdb",
+        "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217.pdb",
         "lineLen":120,
         "info":"PROST found O60091 as homolog for yeast P36525. The alignment with FATCAT tool produces significant similarity with a p-value of 1.89e-05."
     }
