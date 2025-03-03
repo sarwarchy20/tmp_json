@@ -5,10 +5,5 @@
         "pdb":"rcsb://6vsb",
         "name":"6VSB Spike Protein",
         "height":"400px"
-    },
-     "pdb:spike_structure": {
-        "pdb":"rcsb://6vsb",
-        "name":"6VSB Spike Protein",
-        "height":"400px"
     }
 }
