@@ -3,7 +3,33 @@
     "columns": ["name", "age", "email"],
     "rows": [
       ["John Doe", "28", "john.doe@example.com"],
-      ["Alx", "30", "alx@example.com"]
-    ]
+      ["Alx", "30", "alx@example.com"],
+      ["Jane Smith", "34", "jane.smith@example.com"],
+      ["Sam Green", "45", "sam.green@example.com"],
+      ["Emily Brown", "29", "emily.brown@example.com"],
+      ["Michael Johnson", "40", "michael.johnson@example.com"],
+      ["Sarah Lee", "27", "sarah.lee@example.com"],
+      ["David Wilson", "33", "david.wilson@example.com"],
+      ["Laura Martinez", "31", "laura.martinez@example.com"],
+      ["James Anderson", "38", "james.anderson@example.com"],
+      ["Olivia Taylor", "26", "olivia.taylor@example.com"],
+      ["Daniel Thomas", "42", "daniel.thomas@example.com"],
+      ["Sophia White", "29", "sophia.white@example.com"],
+      ["Matthew Harris", "35", "matthew.harris@example.com"],
+      ["Ava Martin", "28", "ava.martin@example.com"],
+      ["Ethan Thompson", "37", "ethan.thompson@example.com"],
+      ["Mia Garcia", "30", "mia.garcia@example.com"],
+      ["Alexander Robinson", "39", "alexander.robinson@example.com"],
+      ["Charlotte Clark", "27", "charlotte.clark@example.com"],
+      ["William Rodriguez", "36", "william.rodriguez@example.com"],
+      ["Amelia Lewis", "32", "amelia.lewis@example.com"],
+      ["Benjamin Walker", "41", "benjamin.walker@example.com"],
+      ["Harper Hall", "28", "harper.hall@example.com"],
+      ["Liam Young", "34", "liam.young@example.com"]
+    ],
+    "config": {
+      "sortable": true,
+      "searchable": true
+    }
   }
 }
