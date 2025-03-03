@@ -3,8 +3,8 @@
     "pdb1":"https://alphafold.ebi.ac.uk/files/AF-O60091-F1-model_v4.pdb",
     "name1":"O60091",
     "pdb2":"https://alphafold.ebi.ac.uk/files/AF-P36525-F1-model_v4.pdb",
-    "name2":"P36525",
-  }
+    "name2":"P36525"
+  },
    "img:logo:6": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20_pc1.png",
         "height": "200"
