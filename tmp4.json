@@ -1,0 +1,9 @@
+{
+    "h2:title":"Covid Spike Protein Sequence & Structure",
+    "seq:spike_protein": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIV",
+    "pdb:spike_structure": {
+        "pdb":"https://raw.githubusercontent.com/sarwarchy20/master/test_data/8217_scaled_20_neg_pc1.pdb",
+        "name":"8217_scaled_20_neg_pc1",
+        "height":"400px"
+    }
+}
