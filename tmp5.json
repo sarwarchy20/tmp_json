@@ -2,6 +2,7 @@
     "alnpdb:alignment":{
         "pdb1":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20_neg.pdb",
         "name1":"8217_scaled_20_neg",
+        "color1": "red",
         "pdb2":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20.pdb",
         "name2":"8217_scaled_20",
         "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217.pdb",
