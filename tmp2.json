@@ -1,0 +1,16 @@
+"section:sequence": {
+        "h2:sequenceTitle": "Protein Sequence",
+        "seq:testseq:6": "MAACCAACAKKV"
+    },
+    "section:structure": {
+        "h2:structureTitle": "3D Structure",
+        "pdb:3pqr:6": {
+            "path":"rcsb://6vsb",
+            "height":"400px"
+        }
+    },
+    "section:findings": {
+        "h2:findingsTitle": "Research Findings",
+        "md:findingsInfo:6": "Recent studies have shown that this protein plays a key role in the replication of the SARS-CoV-2 virus 🦠🔬"
+    }
+}
