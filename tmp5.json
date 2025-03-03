@@ -1,5 +1,5 @@
 {  "h2:caption":"8217_scaled_20_pos and 8217_scaled_20_neg Alignment",
-    "alnpdb:alignment":{
+    "alnpdb:test":{
         "pdb1":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20_neg.pdb",
         "name1":"8217_scaled_20_neg",
         "color1": "red",
