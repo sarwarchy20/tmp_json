@@ -1,23 +1,9 @@
 {
   "table:test_data": {
-    "columns": [
-      { "key": "id", "label": "ID", "type": "number" },
-      { "key": "name", "label": "Name", "type": "string" },
-      { "key": "age", "label": "Age", "type": "number" },
-      { "key": "email", "label": "Email", "type": "string" }
-    ],
+    "columns": ["name","age", "email"],
     "rows": [
-      { "id": 1, "name": "John Doe", "age": 28, "email": "john.doe@example.com" },
-      { "id": 2, "name": "Jane Smith", "age": 34, "email": "jane.smith@example.com" },
-      { "id": 3, "name": "Sam Green", "age": 45, "email": "sam.green@example.com" }
-    ],
-    "config": {
-      "sortable": true,
-      "searchable": true,
-      "pagination": {
-        "enabled": true,
-        "rowsPerPage": 5
-      }
-    }
+      [ John Doe,28,john.doe@example.com],
+      [ Alx,30,alx@example.com]
+    ]
   }
 }
