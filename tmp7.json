@@ -3,7 +3,7 @@
     "seq:spike_protein": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIV",
     "pdb:spike_structure": {
         "pdb":"https://alphafold.ebi.ac.uk/files/AF-P08217-F1-model_v4.pdb",
-        "name":"8217",
+        "name":"P08217",
         "height":"400px"
     }
 }
