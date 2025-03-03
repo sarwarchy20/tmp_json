@@ -1,8 +1,9 @@
-{"table:test_data":{
-    "columns": ["name","age", "email"],
-    "rows":[
-      ["John Doe","28","john.doe@example.com"],
-      ["Alx","30","alx@example.com"]
+{
+    "table:test_data": {
+    "columns": ["name", "age", "email"],
+    "rows": [
+      ["John Doe", "28", "john.doe@example.com"],
+      ["Alx", "30", "alx@example.com"]
     ]
   }
 }
