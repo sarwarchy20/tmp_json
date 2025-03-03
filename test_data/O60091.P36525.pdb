@@ -1,8 +1,5 @@
 REMARK  the superimposed protein file
 REMARK  protein pdb1.pdb chain A with twisted protein pdb2.pdb in chain B
-REMARK  result after optimizing 3 blocks 157 residues 2.897 rmsd
-REMARK  pdb1.pdb chain A
-REMARK  pdb2.pdb chain B
 ATOM      1  N   MET A   1      61.685 -34.592 -44.747
 ATOM      2  CA  MET A   1      61.114 -33.759 -43.663
 ATOM      3  C   MET A   1      59.589 -33.838 -43.720
