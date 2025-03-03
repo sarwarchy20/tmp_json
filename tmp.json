@@ -1,0 +1,9 @@
+{
+    "h2:title":"Covid Spike Protein Sequence & Structure",
+    "seq:spike_protein": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIV",
+    "pdb:spike_structure": {
+        "pdb":"rcsb://6vsb",
+        "name":"6VSB Spike Protein",
+        "height":"400px"
+    }
+}
