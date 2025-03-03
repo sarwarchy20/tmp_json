@@ -1,20 +1,10 @@
 {
-    "h2:title":"Covid Spike Protein Sequence & Structure",
-    "seq:spike_protein": "MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIV",
-    "pdb:spike_structure": {
-        "pdb":"https://alphafold.ebi.ac.uk/files/AF-P36525-F1-model_v4.pdb",
-        "name":"8217_scaled_20_neg_pc1",
-        "height":"400px"
-    }
-}
-
-{
-    "alnpdb:test":{
-        "pdb1":"https://alphafold.ebi.ac.uk/files/AF-O60091-F1-model_v4.pdb",
-        "name1":"O60091",
-        "pdb2":"https://alphafold.ebi.ac.uk/files/AF-P36525-F1-model_v4.pdb",
-        "name2":"P36525",
-        "alnpdb":"https://raw.githubusercontent.com/MesihK/react-json-wpbuilder/master/test/O60091.P36525.pdb",
+    "pdb:test":{
+        "pdb1":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20_neg.pdb",
+        "name1":"8217_scaled_20_neg",
+        "pdb2":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217_scaled_20.pdb",
+        "name2":"8217_scaled_20",
+        "pdb":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/8217.pdb",
         "lineLen":120,
         "info":"PROST found O60091 as homolog for yeast P36525. The alignment with FATCAT tool produces significant similarity with a p-value of 1.89e-05."
     }
