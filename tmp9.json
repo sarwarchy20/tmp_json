@@ -7,9 +7,16 @@
 "rows": [["A0A0G2JMI3@A0A0G2JMI3", "HV692_HUMAN Immunoglobulin heavy variable 1-69-2", "ENSG00000275148.2, ENSG00000281990.1", 350, 282, 95, 344, 78, 11]
        ]
     },
-"page:A0A0G2JMI3":
-       
+"page:A0A0G2JMI3": 
+{"h2:caption": "A0A0G2JMI3 - Results", 
+"md:info0": "This page presents details for the A0A0G2JMI3 protein. Aplhafold2 structure predeiction shown below.", 
+"pdb:structure": {"pdb": "https://alphafold.ebi.ac.uk/files/AF-A0A0G2JMI3-F1-model_v4.pdb", 
+"name": "A0A0G2JMI3 Alphafold2 Prediction", "height": "300px"}, 
+"h3:all": "A0A0G2JMI3 Paralogs", 
+"table:allList": {"columns": ["Uniprot ID", "Function", "Method"], 
+"rows": [["A0A075B6H8", "KVD42_HUMAN Probable non-functional immunoglobulin kappa variable 1D-42", "PROST FoldSeek"], 
+["A0A1B0GXF2", "TVB72_HUMAN T cell receptor beta variable 7-2", "PROST FoldSeek"]
+]
+ }
 }
-  
-
-  
+}
