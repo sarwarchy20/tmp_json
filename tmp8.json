@@ -1,0 +1,14 @@
+{"table:enzList": 
+  {"columns": ["l:Enzyme"], 
+  "rows": [["BioB@BioB"], ["CysW@CysW"], ["FabB@FabB"], ["FabF@FabF"], ["FolK@FolK"], ["PheS@PheS"], ["QueF@QueF"], ["TrpC@TrpC"]]}, 
+  "page:BioB": 
+  {"table:mutList": 
+    {"columns": ["MSA Ind", "Mutation", "Count", "Type", "SASA"], 
+    "rows": [[203, "R95H", 1, "High", 0.0], 
+             [423, "E270G", 2, "High", 84.787463950827], 
+             [139, "E39T", 4, "High", 81.31261114854439], 
+             [439, "F285I", 3, "High", 13.28391037643908]
+          ]
+    }
+  }
+}
