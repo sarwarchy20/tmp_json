@@ -10,7 +10,7 @@
              [439, "F285I", 3, "High", 13.28391037643908]
           ]
     }
-  }
+  },
 "page:CysW":
   {"table:mutList": 
     {"columns": ["MSA Ind", "Mutation", "Count", "Type", "SASA"], 
