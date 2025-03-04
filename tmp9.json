@@ -4,7 +4,8 @@
 "md:info": "This page presents the Human paralogs that are found by multiple homology detection methods namely **PROST**, **FoldSeek**, **MMseqs2** and **BLAST**.", 
 "h3:caption2": "List of Paralogs", 
 "table:proteins": {"columns": ["l:Uniprot ID", "Function", "Ensembl ID", "# Total", "# PROST", "# MMseqs2", "# Foldseek", "# BLAST", "# Unique Ensembl"], 
-"rows": [["A0A0G2JMI3@A0A0G2JMI3", "HV692_HUMAN Immunoglobulin heavy variable 1-69-2", "ENSG00000275148.2, ENSG00000281990.1", 350, 282, 95, 344, 78, 11]
+"rows": [["A0A0G2JMI3@A0A0G2JMI3", "HV692_HUMAN Immunoglobulin heavy variable 1-69-2", "ENSG00000275148.2, ENSG00000281990.1", 350, 282, 95, 344, 78, 11],
+       ["P08217@P08217", "HV692_HUMAN Immunoglobulin heavy variable 1-69-2", "ENSG00000275148.2, ENSG00000281990.1", 350, 282, 95, 344, 78, 11]
        ]
     },
 "page:A0A0G2JMI3": 
@@ -18,5 +19,17 @@
 ["A0A1B0GXF2", "TVB72_HUMAN T cell receptor beta variable 7-2", "PROST FoldSeek"]
 ]
  }
-}
+},
+  "page:P08217": 
+  {"h2:caption": "P08217 - Results",
+    "md:info0": "This page presents details for the P08217 protein. AlphaFold2 structure prediction is shown below.",
+    "pdb:structure": {"pdb": "https://alphafold.ebi.ac.uk/files/AF-P08217-F1-model_v4.pdb",
+    "name": "P08217 AlphaFold2 Prediction",
+    "height": "300px"},
+    "h3:all": "P08217 Paralogs",
+    "table:allList": { "columns": ["Uniprot ID", "Function", "Method"],
+    "rows": [["Q9UKQ9", "Probable non-functional immunoglobulin kappa variable 1D-42", "PROST FoldSeek"]
+      ]
+    }
+  }
 }
