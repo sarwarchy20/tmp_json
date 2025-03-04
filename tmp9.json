@@ -1,0 +1,12 @@
+{"showToc": false, 
+"title": "Human Paralogs Study", 
+"h2:caption": "Introduction to the website", 
+"md:info": "This page presents the Human paralogs that are found by multiple homology detection methods namely **PROST**, **FoldSeek**, **MMseqs2** and **BLAST**.", 
+"h3:caption2": "List of Paralogs", 
+"table:proteins": {"columns": ["l:Uniprot ID", "Function", "Ensembl ID", "# Total", "# PROST", "# MMseqs2", "# Foldseek", "# BLAST", "# Unique Ensembl"], 
+"rows": [["A0A0G2JMI3@A0A0G2JMI3", "HV692_HUMAN Immunoglobulin heavy variable 1-69-2", "ENSG00000275148.2, ENSG00000281990.1", 350, 282, 95, 344, 78, 11]
+       ]
+    },
+  
+
+  
